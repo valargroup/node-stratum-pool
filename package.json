@@ -28,8 +28,8 @@
         "async": "^2.6.1",
         "base58-native": "^0.1.4",
         "bignum": "^0.13.0",
-        "bitgo-utxo-lib": "git+https://github.com/upbqdn/bitgo-utxo-lib.git",
-        "equihashverify": "git+https://github.com/upbqdn/equihashverify.git",
+        "bitgo-utxo-lib": "git+https://github.com/upbqdn/bitgo-utxo-lib.git#269bf2d97a356757f9734f9fec2acd2fa5c20913",
+        "equihashverify": "git+https://github.com/upbqdn/equihashverify.git#bdd4a788924f2c51799664a09c54c0af2ac4ea10",
         "merkle-bitcoin": "^1.0.2",
         "promise": "^8.0.1"
     },
